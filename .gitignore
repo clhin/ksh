@@ -9,6 +9,8 @@ lcl
 *.req
 FEATURE/
 /bin/.paths
+/bin/ar
+/bin/cc
 /bin/crossexec
 /bin/iffe
 /bin/ksh
